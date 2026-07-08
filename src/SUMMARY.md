@@ -2,6 +2,5 @@
 
 - [Introduction](./introduction.md)
 - [Getting Start](./getting_start.md)
-- [MBX](./mbx/index.md)
-  - [Basic](./mbx/basic.md)
-
+- [User Interface](./ui/index.md)
+  - [Creating Component](./ui/creating_components.md)
