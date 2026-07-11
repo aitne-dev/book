@@ -43,3 +43,11 @@ fn app() -> &View {
   </div>
 }
 ```
+
+## Component Naming
+
+In MBX, component tags are converted from PascalCase to snake_case during compilation:
+- `<MyComponent />` calls `my_component(...)`
+- `<HelloWorld />` calls `hello_world(...)`
+
+This allows MoonBit function names (which use snake_case) to be called with JSX-like PascalCase tags.
