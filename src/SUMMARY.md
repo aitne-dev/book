@@ -15,8 +15,3 @@
   - [Memo](./concept/memo.md)
   - [Context](./concept/context.md)
   - [Owner](./concept/owner.md)
-- [MBX](./mbx/index.md)
-  - [Basic](./mbx/basic.md)
-  - [Template](./mbx/template.md)
-- [Eirene](./eirene/index.md)
-  - [Basic](./eirene/basic.md)
